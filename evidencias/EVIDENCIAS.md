@@ -32,6 +32,10 @@ Ahora, tengo que resolver estas dos PRs creadas desde dos diferentes ramas (feat
 ![Captura de pantalla](evidencias5.jpg)
 
 # Evidencias de la creación del workflow
+Con esto, lo que he hecho ha sido crear un proceso que no se activa solo, sino que lo tengo que ejecutar manualmente.
+También, se solicita mi nombre para la ejecución del mismo. Lo he ejecutado en la máquina virtual de Ubuntu (Linux).
+
+## Imagen que demuestra la resolución del workflow
 ![Captura de pantalla](evidencias6.jpg)
 
 # Enlace del repositorio público
