@@ -27,3 +27,12 @@ Ahora, tengo que resolver estas dos PRs creadas desde dos diferentes ramas (feat
 
 ## Imagen que lo demuestra
 ![Captura de pantalla](evidencias4.jpg)
+
+## Imagen que demuestra la resolución del conflicto
+![Captura de pantalla](evidencias5.jpg)
+
+# Evidencias de la creación del workflow
+![Captura de pantalla](evidencias6.jpg)
+
+# Enlace del repositorio público
+https://github.com/mayerga/ejercicio_practico_modulo1

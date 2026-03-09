@@ -1,0 +1,18 @@
+SET UP JOB:
+
+Current runner version: '2.332.0'
+Runner Image Provisioner
+Operating System
+Runner Image
+GITHUB_TOKEN Permissions
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Complete job name: imprimir-nombre
+
+IMPRIMIR NOMBRE COMPLETO POR CONSOLA:
+Run echo "Mi nombre completo es Manuel Yerbes"
+Mi nombre completo es Manuel Yerbes
+
+COMPLETE JOB:
+Cleaning up orphan processes
