@@ -19,5 +19,7 @@ Después, ejecuto 'git status' y se ve en la imagen, como no aparece en la lista
 
 Resultado del git status se encuentra en el archivo evidencias/evidencias-status.txt
 
+# Imagen que muestra la PR
+![Captura de pantalla](evidencias3.jpg)
 
 
