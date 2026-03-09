@@ -1,0 +1,22 @@
+* a8f9f1e Evidencias5
+* 777de09 Evidencias 4
+*   3f05d52 Merge pull request #3 from mayerga/feature/resta
+|\  
+| *   9481ebb Merge branch 'main' into feature/resta
+| |\  
+| |/  
+|/|   
+* |   832831d Merge pull request #2 from mayerga/feature/suma
+|\ \  
+| * | 76d9063 Función suma
+|/ /  
+| * 1473d9e Función resta
+| * d5280cc Creado el archivo operations.py
+|/  
+*   299ba58 Merge pull request #1 from mayerga/feature/gitignore
+|\  
+| * 5451c56 Evidencias de la PR en feature/gitignore
+| * eefaf2f Apartado 3 de la práctica
+|/  
+* e042632 Creación de archivo de evidencias
+* ab23c0e Creación del repositorio con el README.md
