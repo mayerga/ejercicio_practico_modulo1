@@ -5,7 +5,7 @@ Con esto, lo que hago es que no se permitan pushs directos sobre la rama main. T
 
 Con esto, lo que hago es proteger la rama main ante posibles errores.
 
-# Imagen que lo demuestra
+## Imagen que lo demuestra
 ![Captura de pantalla](evidencias1.jpg)
 
 
@@ -14,12 +14,16 @@ Con esto, lo que hago es proteger la rama main ante posibles errores.
 Después de crear el .gitignore, creo el archivo de prueba.log.
 Después, ejecuto 'git status' y se ve en la imagen, como no aparece en la lista de 'untracked files'.
 
-# Imagen que lo demuestra
+## Imagen que lo demuestra
 ![Captura de pantalla](evidencias2.jpg)
 
 Resultado del git status se encuentra en el archivo evidencias/evidencias-status.txt
 
-# Imagen que muestra la PR
+## Imagen que muestra la PR
 ![Captura de pantalla](evidencias3.jpg)
 
+# Evidencias Creación de ramas
+Ahora, tengo que resolver estas dos PRs creadas desde dos diferentes ramas (feature/resta y feature/suma)
 
+## Imagen que lo demuestra
+![Captura de pantalla](evidencias4.jpg)
